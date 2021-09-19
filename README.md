@@ -17,14 +17,15 @@ I am  Darvin Sinaga. I am an undergraduate student of Computer Science at Binus 
 
 ### About me : 
 
-- 📘 Linkedin  : https://www.linkedin.com/in/darvinsinaga/
+- 📘 Linkedin  : https://www.linkedin.com/in/nagacoder/
 - 🌐 Instagram : https://instagram.com/nagacoder
 - 📌 Palembang, Indonesia
-- 📎 Sofware Engineer | https://prospace.io
+- 📎 Software Engineer | https://prospace.io
 
 
-### Github Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nagacoder&show_icons=true&theme=blue-green">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagacoder&show_icons=true&theme=blue-green&layout=compact">
+### Languages and Detail
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nagacoder&count_private=true&show_icons=true&bg_color=F6F8FA&title_color=5069DF&hide=issues&icon_color=EB445E"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagacoder&layout=compact"/>
+</p>
