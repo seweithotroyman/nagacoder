@@ -27,5 +27,5 @@ I am  Darvin Sinaga. I am an undergraduate student of Computer Science at Binus 
 ### Languages and Detail
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=nagacoder&count_private=true&show_icons=true&bg_color=F6F8FA&title_color=5069DF&hide=issues&icon_color=EB445E"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagacoder&layout=compact"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagacoder&layout=compact&langs_count=10"/>
 </p>
